@@ -1,0 +1,28 @@
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+#menu {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60;
+}
+
+#menu a {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+    color: #ec6582;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif
+}
+
+#photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
