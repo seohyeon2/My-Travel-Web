@@ -18,6 +18,6 @@
 
 <br>
 
-#### 1. 나만의 여행 기록 사이트
+#### 1. 나만의 여행 기록 사이트(travel)
 
 <img width="900" src="https://github.com/seohyeon2/My-Travel-Web/blob/main/travel/display/img_1st.png">
